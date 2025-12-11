@@ -1,0 +1,1 @@
+# Write-a-Python-Program-to-calculate-the-mean-of-the-numbers-of-the-tuple.
